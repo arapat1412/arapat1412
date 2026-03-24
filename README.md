@@ -15,7 +15,7 @@
 🎯 About Me
 
 const developer = {
-  name: "Mô Ham Mách A Rápát",
+  name: "Mô Ham Mách A RA PÁT",
   role: "Freelance Developer",
   
   currentFocus: [
