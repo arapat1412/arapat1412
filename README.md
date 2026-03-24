@@ -1,4 +1,4 @@
-<h1 align="center">👋 MÔ HAM MÁCH A RÁPÁT</h1>
+<h1 align="center">👋 MÔ HAM MÁCH A RA PÁT</h1>
 
 <h3 align="center">Freelance Developer | Web, Game & Automation Enthusiast</h3>
 
